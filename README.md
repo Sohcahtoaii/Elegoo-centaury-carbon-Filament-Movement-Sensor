@@ -80,6 +80,8 @@ It is based on the work by [Jonathan Rowny](https://github.com/jrowny/cc_sfs), w
 6. Use the **extra ports** for debugging or optional upgrades.
 
 ---
+## 🔍 BOM interactif  
+👉 [Voir le BOM interactif ici](https://sohcahtoaii.github.io/Elegoo-centaury-carbon-Filament-Movement-Sensor/)
 
 ## 🖼️ Images / Preview
 
